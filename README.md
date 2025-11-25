@@ -1,4 +1,4 @@
-# Spy
+# BASIC REACT
 
 A React learning project - a landing page template built while learning React fundamentals.
 
